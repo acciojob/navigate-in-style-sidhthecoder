@@ -4,8 +4,10 @@
 	padding:10px;
 }
 
+.container ul{
+	display:inline;
+}
 .container ul li{
-	display:flex;
 	margin-right:1rem;
 	list-style-type:none;
 }
