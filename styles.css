@@ -5,7 +5,7 @@
 }
 
 .container ul{
-	display:inline;
+	display:flex;
 }
 .container ul li{
 	margin-right:1rem;
