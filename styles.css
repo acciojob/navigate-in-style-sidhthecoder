@@ -6,6 +6,6 @@ nav{
 
 nav ul li{
 	display:inline;
-	margin:1rem;
+	margin-right:1rem;
 	list-style-type:none;
 }
