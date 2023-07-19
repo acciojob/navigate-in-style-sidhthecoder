@@ -5,7 +5,7 @@
 }
 
 .container ul li{
-	display:inline;
+	display:flex;
 	margin-right:1rem;
 	list-style-type:none;
 }
